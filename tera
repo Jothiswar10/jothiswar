@@ -1,0 +1,8 @@
+git init  
+git add
+git config --global user.gmail"jothisgang692@gmail.com"
+git config -- global user.name "jothiswar10"
+git commit-m"hello everyone"
+git branch-M main
+git remote add origin https://github.com/username/repo.com
+git push-u origin main
